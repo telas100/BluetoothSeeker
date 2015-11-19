@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BluetoothSeeker</string>
+    <string name="head_title">Bluetooth Devices trouvés:</string>
+    <string name="button_text">Rechercher</string>
+</resources>
